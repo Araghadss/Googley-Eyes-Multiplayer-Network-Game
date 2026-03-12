@@ -67,25 +67,8 @@ Players gain points for correct answers, and the first player to reach the winni
 
 ---
 
-## Project Structure
-
-```
-GoogleyEyes-Network-Game
-│
-├── GameServer.java
-├── GameClient.java
-├── RegistrationFrame.java
-├── ConnectedPlayersFrame.java
-├── WaitingRoomFrame.java
-└── (Game logic classes)
-```
-
----
-
 ## My Contribution
 
-Raghad Aldajani
-
-* Implemented parts of the **client-side interface**
-* Contributed to **game logic and networking communication**
-* Assisted with **multiplayer synchronization and testing**
+* Implemented parts of the client-side interface
+* Contributed to game logic and networking communication
+* Assisted with multiplayer synchronization and testing
